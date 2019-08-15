@@ -9,3 +9,16 @@ Language: Python 3.6.xFramework: Flask 1.0.3
 Database: SQLite
 
 Dependent Packages: AllenNLP, SQLAlchemy, Flask
+
+
+Html pages are the webpage named after their function
+
+__init__.py: the startup
+
+form.py: receiving users input information
+
+models.py: model layer of the project
+
+relation_extraction: relationship extraction function and link prediction method
+
+site.db: our database
